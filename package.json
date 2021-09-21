@@ -1,0 +1,17 @@
+{
+    "id": "cc.fovea.eazetween",
+    "name": "Eaze Tween",
+    "url": "https://github.com/j3k0/as3-eaze-tween",
+    "docUrl": "https://crypto.hurlant.com",
+    "description": "Smart, fast, chainable and compact Flash AS3 tweening library",
+    "sourceUrl": "https://github.com/j3k0/as3-eaze-tween/releases/download/1.1.0/cc.fovea.eazetween_1.1.0.airpackage",
+    "type": "swc",
+    "version":"1.1.0",
+    "license": {
+        "type": "MIT",
+        "public": true
+    },
+    "dependencies": [],
+    "parameters": [],
+    "tags": [ "fovea", "eaze", "tween" ]
+}
